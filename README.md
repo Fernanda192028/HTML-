@@ -1,5 +1,5 @@
 <img src="https://www.w3c.br/wp-content/uploads/2010/09/Prancheta-1.png" alt="imagem da logo do HTML">
-<h1>O que é html?</h1>
+<h1>O que é HTML?</h1>
 <p>HTML (Hypertext Markup Language) é uma linguagem de marcação de hipertexto que define a estrutura e o significado do conteúdo de uma página web. É o bloco de construção mais básico da web. </p>
 
 <h2>Por que é importante aprender HTML?  </h2>
