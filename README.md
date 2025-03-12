@@ -25,4 +25,4 @@
 <p>Construa sites simples do zero.</p>
 <br>
 <h2> Nesse repositório você encontrará um exemplo de site em html </h2>
-<p> Acesse a pasta Aula 1 / index.html e seja feliz com os códigos (●'◡'●)</p>
+<p> Acesse a pasta index.html e seja feliz com os códigos (●'◡'●)</p>
